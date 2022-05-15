@@ -4,7 +4,7 @@ import PrimaryBtn from '../Shared/PrimaryBtn';
 
 const Contact = () => {
   return (
-    <section className='text-center py-12 mb-28' style={{ background: `url(${appointment})` }}>
+    <section className='text-center py-12' style={{ background: `url(${appointment})` }}>
       <div className='mb-8'>
         <h3 className='text-secondary text-lg font-bold'>Contact Us</h3>
         <h2 className='text-3xl text-white'>Stay Connected With Us</h2>
