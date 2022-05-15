@@ -6,7 +6,7 @@ import PrimaryBtn from '../Shared/PrimaryBtn';
 const MakeAppointment = () => {
   return (
     <section
-      className='flex justify-center items-center mt-20 sm:p-10 md:p-0 lg:p-0'
+      className='flex justify-center items-center mt-20 sm:p-10 md:p-0 lg:p-0 mb-28'
       style={{ background: `url(${appointment})` }}
     >
       <div className='flex-1 hidden lg:block md:block'>
