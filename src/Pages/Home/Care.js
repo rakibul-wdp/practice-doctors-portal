@@ -1,5 +1,6 @@
 import React from 'react';
 import treatment from '../../assets/images/treatment.png';
+import PrimaryBtn from '../Shared/PrimaryBtn';
 
 const Care = () => {
   return (
@@ -14,9 +15,7 @@ const Care = () => {
             letters,as opposed to using 'Content here, content here', making it look like readable English. Many desktop
             publishing packages and web page
           </p>
-          <button className='btn btn-primary uppercase text-white font-bold bg-gradient-to-r from-secondary to-primary'>
-            Get Started
-          </button>
+          <PrimaryBtn>Get Started</PrimaryBtn>
         </div>
       </div>
     </div>
