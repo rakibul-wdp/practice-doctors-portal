@@ -3,7 +3,7 @@ import treatment from '../../assets/images/treatment.png';
 
 const Care = () => {
   return (
-    <div className='hero min-h-[80vh] mt-20 mb-32'>
+    <div className='hero min-h-[50vh] mt-24 mb-32'>
       <div className='hero-content flex-col lg:flex-row'>
         <img src={treatment} className='max-w-sm rounded-lg shadow-2xl' alt='' />
         <div className='ml-10'>
